@@ -70,7 +70,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(105, 35);
             this.button1.TabIndex = 0;
-            this.button1.Text = "发送";
+            this.button1.Text = "单次发送";
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -173,17 +173,17 @@
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(269, 432);
+            this.label9.Location = new System.Drawing.Point(406, 427);
             this.label9.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(142, 15);
+            this.label9.Size = new System.Drawing.Size(128, 15);
             this.label9.TabIndex = 5;
-            this.label9.Text = "（可添加多个附件）";
+            this.label9.Text = "[可添加多个附件]";
             // 
             // linkLabel2
             // 
             this.linkLabel2.AutoSize = true;
-            this.linkLabel2.Location = new System.Drawing.Point(201, 432);
+            this.linkLabel2.Location = new System.Drawing.Point(503, 401);
             this.linkLabel2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.linkLabel2.Name = "linkLabel2";
             this.linkLabel2.Size = new System.Drawing.Size(37, 15);
@@ -195,7 +195,7 @@
             // linkLabel1
             // 
             this.linkLabel1.AutoSize = true;
-            this.linkLabel1.Location = new System.Drawing.Point(145, 432);
+            this.linkLabel1.Location = new System.Drawing.Point(464, 401);
             this.linkLabel1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.linkLabel1.Name = "linkLabel1";
             this.linkLabel1.Size = new System.Drawing.Size(37, 15);
@@ -207,7 +207,7 @@
             // t_files
             // 
             this.t_files.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            this.t_files.Location = new System.Drawing.Point(145, 398);
+            this.t_files.Location = new System.Drawing.Point(99, 398);
             this.t_files.Margin = new System.Windows.Forms.Padding(4);
             this.t_files.Name = "t_files";
             this.t_files.ReadOnly = true;
@@ -236,7 +236,7 @@
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(83, 404);
+            this.label8.Location = new System.Drawing.Point(36, 404);
             this.label8.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(52, 15);
