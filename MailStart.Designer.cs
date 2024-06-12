@@ -90,7 +90,7 @@
             this.t_from.Name = "t_from";
             this.t_from.Size = new System.Drawing.Size(192, 25);
             this.t_from.TabIndex = 2;
-            this.t_from.Text = "Shovyaccount@163.com";
+            this.t_from.Text = "18175549596@163.com";
             // 
             // label1
             // 
@@ -138,7 +138,7 @@
             this.t_to.Name = "t_to";
             this.t_to.Size = new System.Drawing.Size(192, 25);
             this.t_to.TabIndex = 11;
-            this.t_to.Text = "289413934@qq.com";
+            this.t_to.Text = "385522453@qq.com";
             // 
             // label4
             // 
