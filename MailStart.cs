@@ -100,11 +100,6 @@ namespace MailForm
                 errCount++;
             }
             Regex myreg = new Regex(@"^\w+([-+.]\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$"); //email验证
-            //if (!myreg.IsMatch(t_from.Text))
-            //{
-            //    err += "用户名格式不正确！\r\n";
-            //    errCount++;
-            //}
             //看还有没有其他需要验证的
             if (errCount == 0)
                 return true;
